@@ -17,6 +17,6 @@ A lightweight Python-based ETL pipeline that connects to an FTP server, checks f
 
 ---
 
-## 🏗️ ETL Flow
+
 
 
